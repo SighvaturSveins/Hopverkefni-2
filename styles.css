@@ -1,0 +1,34 @@
+html
+{
+	background: url("wow-background.jpg");
+}
+body
+{
+	max-width: 60em;
+	margin: auto;
+
+}
+@font-face
+{
+	font-family: LifeCraft; src: url('LifeCraft_Font.ttf');
+}
+p
+{
+	font-family: 'Old Standard TT', serif;
+	color: #FFE525;
+	text-align: center;
+}
+h1
+{
+	text-align: center;
+	font-family: LifeCraft;
+	color: #FFC20A;
+}
+div
+{
+	background-color: #3E5DFF;
+	border-radius: 15px;
+	border: ridge #FFC20A 4px;
+	padding: 15px;
+	margin-bottom: 45px;
+}
