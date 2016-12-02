@@ -38,6 +38,9 @@ Ransóknirnar eru frá árunum 2005, 2011, 2013, 2015 og eru allar mjög líkar 
 
 Heimildir:
 https://en.wikipedia.org/wiki/World_of_Warcraft#Expansions
+
 http://eu.battle.net/forums/en/wow/topic/17289170691
+
 https://www.statista.com
+
 http://observationdeck.kinja.com/100-million-people-have-played-world-of-warcraft-and-o-1510870045
